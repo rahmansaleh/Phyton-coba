@@ -3,12 +3,12 @@
 a = 10
 print(a)
 
-b = 4
+b = 3
 print(b)
 
-print(a + b)
-print(a - b)
-print(a * b)
-print(a / b)
-print(a // b)
-print(a % b)
+print("+ ", a + b)
+print("- ", a - b)
+print("* ", a * b)
+print("/ ", a / b)
+print("// ", a // b)
+print("% ", a % b)
