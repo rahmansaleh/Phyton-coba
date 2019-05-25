@@ -8,5 +8,5 @@ hasil = x / 2
 print(x)
 print(hasil)
 
-print("Nilai x : ", x)
+print("Nilai x : ", x, " dengan hasil", hasil)
 print("Nilai hasil : ", hasil)
